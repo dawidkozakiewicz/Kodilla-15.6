@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Electrolize');
+
+
+
+.stopwatch, li, a, nav {
+	width: 66%;
+	border-top: 1px solid black;
+	margin: 0 auto;
+	text-align: center;
+	text-decoration: none;
+	font-family: 'Electrolize', sans-serif;
+	list-style-type: none;
+	font-size: 50px;
+}
